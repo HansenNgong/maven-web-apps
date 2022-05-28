@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>JOINIT SOLUTIONS- Home Page</title>
+<title>JOINIT SOLUTION- Home Page</title>
 <link href="images/log4.png" rel="icon">
 </head>
 </head>
